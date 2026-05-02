@@ -19,5 +19,7 @@ A interface foi dividida em seções informativas que trazem a problemática par
 * **CSS3:** Responsável pela estilização da página, construção do layout em formato de *cards* para facilitar a leitura, e aplicação da paleta de cores (Verde, Amarelo e Branco).</p>
 <h2>Site desktop:</h2>
 <img src="/imagens/Print_site.png" alt="uma print do site no modelo desktop ">
-<h2>Site Mobile;</h2>
+<h2>Site Mobile:</h2>
 <img src="/imagens/Print_mobile.png" alt="uma print do site no modelo mobile">
+<h2>Site Mobile barra lateral:</h2>
+<img src="/imagens/Print_mobile_BarraNav.png" alt="uma print do site no modelo mobile com a barra lateral completamente aberta">
