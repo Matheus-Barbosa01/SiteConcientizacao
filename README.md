@@ -18,6 +18,6 @@ A interface foi dividida em seções informativas que trazem a problemática par
 * **HTML5:** Para a estruturação semântica de todo o conteúdo informacional.
 * **CSS3:** Responsável pela estilização da página, construção do layout em formato de *cards* para facilitar a leitura, e aplicação da paleta de cores (Verde, Amarelo e Branco).</p>
 <h2>Site desktop:</h2>
-<img src="/imagens/Print_site.png.png" alt="uma print do site no modelo desktop ">
+<img src="/imagens/Print_site.png" alt="uma print do site no modelo desktop ">
 <h2>Site Mobile;</h2>
-<img src="/imagens/Print_mobile.png.png" alt="uma print do site no modelo mobile">
+<img src="/imagens/Print_mobile.png" alt="uma print do site no modelo mobile">
